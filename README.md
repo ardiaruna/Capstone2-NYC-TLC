@@ -1,5 +1,5 @@
 # Capstone2-NYC-TLC
- > ## **Introduction**
+## **Introduction**
 ---
 ### **Background**
 The New York City Taxi and Limousine Commission (TLC) created in 1971, is the city agency responsible for regulating and licensing the for-hire transportation industry. This includes yellow taxis, green taxis (borough cabs), for-hire vehicles (like Uber and Lyft), commuter vans, and limousines. The TLC’s mission is to ensure that both passengers and drivers have access to safe, reliable, and accessible transportation while promoting sustainability and compliance with city laws. 
